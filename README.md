@@ -1,3 +1,3 @@
 # Fixed Error
 
--   Cart <b>[route to checkout][DONE]</b>
+-   Cart <b>[ROUTE TO CHECKOUT] [DONE]</b>
